@@ -26,6 +26,7 @@ body {
 	padding: 5;
 	float: left;
 	width: 100%;
+	heght: 60px;
 	text-align: center;
 }
 .content {
@@ -42,4 +43,5 @@ body {
 	width: 100%;
 	height: 50px;
 	text-align: center;
+	
 }
